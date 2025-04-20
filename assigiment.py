@@ -9,7 +9,7 @@ st.write("Embrace challenges,learn from mistakes,and unlock your full potential.
 
 #qoute section
 st.header("💡Today's Growth Mindset Quote")
-st.write("Success is not final, failure is not fatal: it is the courage to continue that counts.\"-winston churchill\"")
+st.write("Success is not final, failure is not fatal: it is the courage to continue that counts.-winston churchill")
 
 st.header("🔧What's Your Challenge Today?")
 user_input = st.text_input("Describe a challenge you're facing:")
